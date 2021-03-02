@@ -1,0 +1,11 @@
+.userInput {
+  margin: auto;
+}
+
+input.valid {
+  background-color: chartreuse;
+}
+
+input.hidden {
+  visibility: hidden;
+}
